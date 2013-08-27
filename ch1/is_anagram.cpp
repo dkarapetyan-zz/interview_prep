@@ -6,14 +6,14 @@
 #include <unordered_map>
 #include <vector>
 #include <array>
+
 const int SIZE = 1000;
 
 bool is_anagram(std::string string1, std::string string2);
 
 int main()
 {
-    std::string string1; 
-    std::string string2;
+    std::string string1, string2; 
     std::cout << "Enter a string \n";
     std::cin >> string1;
     std::cout << "Enter another string \n";
@@ -27,8 +27,7 @@ int main()
 
 bool is_anagram(std::string string1, std::string string2)
 {
-    std::array<int,SIZE> da_array1; 
-    std::array<int,SIZE> da_array2;
+    std::array<int,SIZE> da_array1, da_array2; 
     da_array1.fill(0);
     da_array2 = da_array1;
     auto len1 = string1.size();
