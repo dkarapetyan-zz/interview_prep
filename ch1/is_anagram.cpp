@@ -4,10 +4,7 @@
 #include <iostream>
 #include <string>
 #include <unordered_map>
-#include <vector>
-#include <array>
-
-const int SIZE = 1000;
+#include <utility>
 
 bool is_anagram(std::string string1, std::string string2);
 
@@ -18,18 +15,15 @@ int main()
     std::cin >> string1;
     std::cout << "Enter another string \n";
     std::cin >> string2;
-    auto i = is_anagram(string1, string2);
-
-    std::cout << i; 
+    std::cout << is_anagram(string1, string2);
 
     return 0;
 }
 
 bool is_anagram(std::string string1, std::string string2)
 {
-    std::array<int,SIZE> da_array1, da_array2; 
-    da_array1.fill(0);
-    da_array2 = da_array1;
+    std::unordered_multimap<char, int> table1;
+    auto table2 = table1;
     auto len1 = string1.size();
     auto len2 = string2.size();
 
@@ -40,14 +34,13 @@ bool is_anagram(std::string string1, std::string string2)
 
     else 
     {
-        for (size_t i = 0; i < len1; i++)
+        for (size_t i =0; i < len1; i++)
         {
-            da_array1[(int)string1[i]]+=1;
-            da_array2[(int)string2[i]]+=1;
+            table1.insert(std::pair<char, size_t>(string1[i], 0));
+            table2.insert(std::pair<char, size_t>(string2[i], 0));
         }
-
     }
 
-    return (da_array1 == da_array2);
+    return (table1 == table2);
 }
 
