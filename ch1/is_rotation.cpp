@@ -1,52 +1,34 @@
 //check if string2 is a counterclockwise rotation of string1
 
-#include <stdlib.h>
-#include <stdio.h>
-#include <string.h>
-#include <stdbool.h>
+#include <string>
+#include <iostream>
 
-bool is_rotation(char *string1, char *string2);
+bool is_rotation(std::string string1, std::string string2);
 
 
 int main()
 {
-    puts("Input a string, please.");
-    char *string1 = NULL;
-    size_t lencap1 = 0;
-    int len1 = getline(&string1, &lencap1, stdin);
-    string1[--len1] = '\0'; // getline includes terminating return character
+    std::string string1, string2;
+    std::cout << "Please input a string.\n";
+    std::cin >> string1;
 
-    puts("Input string number two, please.");
-    char *string2 = NULL;
-    size_t lencap2 = 0;
-    int len2 = getline(&string2, &lencap2, stdin);
-    string2[--len2] = '\0';
+    std::cout << "Input string number two, please.\n";
+    std::cin >> string2;
 
-    printf("%d\n", is_rotation(string1, string2));
-
-    free(string1);
-    free(string2);
+    std::cout <<  is_rotation(string1, string2);
 
     return 0;
 }
 
-bool is_rotation(char *string1, char *string2)
+bool is_rotation(std::string string1, std::string string2)
 {
-    size_t i = strlen(string1);
-    size_t j = strlen(string2);
-
     bool q = false;
 
-    if (i == j)
+    if (string1.size() == string2.size())
     {
-        char *array = malloc(sizeof(char) * 2 * i);
-        strcpy(array, string1);
-        strcat(array, string1);
-
-        if (strstr(array, string2))
+        if ((string2 + string2).find(string1) != static_cast<size_t>(-1)) 
             q = true;
 
-        free(array);
     }
 
     return q;
