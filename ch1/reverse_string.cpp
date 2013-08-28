@@ -1,40 +1,25 @@
 // reverse string in place
-//
 
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
+#include <iostream>
+#include <utility>
+#include <string>
 
-void swap(char *array, int x, int y);
-void reverse(char *array, int len);
+void reverse(std::string &my_string);
 
 int main()
 {
-    char *string = NULL;
-    size_t lencap = 0;
-
-    printf("%s\n", "Input a string");
-    int len = getline(&string, &lencap, stdin);
-    reverse(string, len);
-    printf("%s", string);
+    std::string my_string;
+    std::cout << "Input a my_string. \n";
+    std::getline(std::cin, my_string);
+    reverse(my_string);
+    std::cout << my_string;
     return 0;
 }
 
 
-void swap(char *array, int x, int y)
+void reverse(std::string &my_string)
 {
-char temp = array[x];
-array[x] = array[y];
-array[y] = temp;
+    for (size_t i = 0, len = my_string.size(); i < len/2; i++)
+        std::swap(my_string[i], my_string[len-i-1]);
 }
-
-
-void reverse(char *array, int len)
-{
-    for (int i = 0; i < len/2; i++)
-        swap(array, i, len - i -1);
-}
-
-
-
 
