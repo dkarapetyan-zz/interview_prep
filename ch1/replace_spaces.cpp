@@ -1,54 +1,40 @@
 // replace spaces in string with '%20'
- 
-#include <stdlib.h>
-#include <stdio.h>
-#include <string.h>
+
+#include <iostream>
+#include <string>
 
 
-size_t replace_spaces(char *string, int len); //return new string length
+void replace_spaces(std::string &my_string); 
 
 
 int main()
 {
-    char *string = NULL;
-    size_t lencap = 0;
+    std::string my_string;
+    std::cout << "Please enter a my_string.\n";
+    std::getline(std::cin,my_string);
 
-    puts("Please enter a string.");
-
-    int len = getline(&string, &lencap, stdin);
-
-    replace_spaces(string, len);
-    puts(string);
+    replace_spaces(my_string);
+    std::cout << my_string;
 
     return 0;
 }
 
 
-size_t replace_spaces(char *string, int len)
+void replace_spaces(std::string &my_string)
 {
-    int count = 0;
-    char new_string[3*len];
-    int i,k;
+    std::string new_my_string;
 
-    for (i=k=0; string[i]; i++)
+    for (size_t i = 0; i < my_string.size(); i++)
     {
-        if (string[i] == ' ')
+        if (my_string[i] == ' ')
         {
-            count +=1;
-            new_string[k] = '%';
-            new_string[k+1] = '2';
-            new_string[k+2] = '0';
-            k+=3;
+            new_my_string+="%20";
         }
         else
         {
-            new_string[k] = string[i];
-            k++;
+            new_my_string+=my_string[i];
         }
     }
-    new_string[k] = '\0';
-    realloc(string, len + count * 3);
-    strncpy(string, new_string, len + count *3);
-    return len + count*3;
+    my_string = new_my_string;
 }
 
