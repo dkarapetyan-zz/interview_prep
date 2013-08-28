@@ -22,19 +22,21 @@ int main()
 
 void replace_spaces(std::string &my_string)
 {
-    std::string new_my_string;
+    std::string &&new_string = ""; // use rvalue move semantics
 
     for (size_t i = 0; i < my_string.size(); i++)
     {
         if (my_string[i] == ' ')
         {
-            new_my_string+="%20";
+            new_string+="%20";
         }
         else
         {
-            new_my_string+=my_string[i];
+            new_string+=my_string[i];
         }
     }
-    my_string = new_my_string;
+// new_string moved, not copied, to my_string
+// due to rvalue move semantics above
+    my_string = new_string; 
 }
 
