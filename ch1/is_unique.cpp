@@ -1,40 +1,32 @@
 // check to see if string has all unique characters
 
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
-#include <stdbool.h>
+#include <iostream>
+#include <string>
+#include <unordered_map>
 
-#define SIZE 256 // support for ASCII character set
-
-int array[SIZE] = {0};
-bool is_unique(const char *string);
+bool is_unique(std::string my_string);
 
 int main()
 {
-    char *string = NULL;
-    size_t linecap = 0;
-    printf("%s\n", "Please enter a string");
-    getline(&string, &linecap, stdin);
-
-    printf("%d\n", is_unique(string));
+    std::string my_string;
+    std::cout << "Please enter a string.\n";
+    std::cin >> my_string;
+    std::cout << is_unique(my_string);
     return 0;
 }
 
 
-bool is_unique(const char *string)    
+bool is_unique(std::string my_string)    
 {
-    for (int i = 0; i< SIZE; i++)
+    std::unordered_multimap<char, int> my_table;
+    for (size_t i = 0, j = my_string.size(); i< j; i++)
     {
-        if (string[i])
+        my_table.insert(std::pair<char, int>(my_string[i],0));
+
+        if (my_table.count(my_string[i]) > 1)
         {
-            if (array[(int)string[i]] == 0)
-                array[(int)string[i]]+=1;
-            else
-                return false;
+            return false;
         }
-        else
-            break;
 
     }
 
