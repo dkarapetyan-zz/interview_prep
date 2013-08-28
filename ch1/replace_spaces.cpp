@@ -22,7 +22,7 @@ int main()
 
 void replace_spaces(std::string &my_string)
 {
-    std::string &&new_string = ""; // use rvalue move semantics
+    std::string new_string;
 
     for (size_t i = 0; i < my_string.size(); i++)
     {
@@ -36,7 +36,9 @@ void replace_spaces(std::string &my_string)
         }
     }
 // new_string moved, not copied, to my_string
-// due to rvalue move semantics above
-    my_string = new_string; 
+// due to rvalue move semantics initiated via
+// std::move cast from lvalue to rvalue
+
+    my_string = std::move(new_string); 
 }
 
