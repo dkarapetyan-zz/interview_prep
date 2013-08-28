@@ -1,69 +1,57 @@
 // if [i,j] in matrix is 0, zero out ith row and jth column
 
-#include <stdlib.h>
-#include <stdio.h>
-#include <time.h>
+#include <iostream>
+#include <vector>
+#include <ctime>
+#include <cstdlib>
+const size_t ROWS=3;
+const size_t COLUMNS=5;
 
-#define ROWS  3
-#define COLUMNS 9
-
-typedef struct indices
-{
-    size_t row;
-    size_t column;
-} indices;
+typedef std::vector<std::vector<int>> matrix;
 
 
-void nullify_matrix(int **array, size_t rows, size_t cols);
-void nullify_row(int **array, size_t i, size_t length);
-void nullify_column(int **array, size_t j, size_t height);
+void nullify_matrix(matrix &my_array);
+void nullify_row(matrix &my_array, size_t i);
+void nullify_column(matrix &my_array, size_t j);
 
 int main()
 {
-    srand(time(NULL));
+    std::srand(std::time(nullptr));
 
-    int **array = malloc(sizeof(int *) * ROWS);
-    // assign memory for pointers in matrix
-    for (size_t i = 0; i < ROWS; i++)
-        array[i] = malloc(sizeof(int) * COLUMNS);
+    matrix my_array; 
 
     // initialize and print matrix
     for (size_t i = 0; i < ROWS; i++)
     {
+        my_array.push_back(std::vector<int>());
         for (size_t j = 0; j < COLUMNS; j++)
         {
-            array[i][j] = rand()%10; 
-            printf("%d ", array[i][j]);
+            my_array[i].push_back(rand()%10); 
+            std::cout << my_array[i][j] << " ";
 
             if (j == COLUMNS-1)
-                printf("\n");
+            {
+                std::cout << "\n";
+            }
 
         }
     }
 
 
-    nullify_matrix(array, ROWS, COLUMNS);
+    nullify_matrix(my_array);
 
-    printf("\n");
+    std::cout << "\n";
 
     // print nullified matrix
     for (size_t i = 0; i < ROWS; i++)
     {
         for (size_t j = 0; j < COLUMNS; j++)
         {
-            printf("%d ", array[i][j]);
+            std::cout << my_array[i][j] << " ";
             if (j == COLUMNS-1)
-                printf("\n");
+                std::cout << "\n";
         }
     }
-
-    // free memory in memory (stored on the heap)
-
-    for (size_t i = 0; i < ROWS; i++)
-        free(array[i]);
-
-    free(array);
-
 
     return 0;
 }
@@ -72,43 +60,56 @@ int main()
 
 
 
-void nullify_matrix(int **array, size_t rows, size_t cols)
+void nullify_matrix(matrix &my_array)
 {
-    indices *zero_array = malloc(sizeof(indices) * cols);
+    size_t rows = my_array.size();
+    size_t cols = my_array[0].size();
+    std::vector<std::pair<int, int>> zero_array(cols); 
     size_t k = 0;
     for (size_t i = 0; i < rows; i++)
     {
         for (size_t j = 0; j < cols; j++)
         {
-            if (array[i][j] == 0)
+            if (my_array[i][j] == 0)
             {
-                zero_array[k].row = i;
-                zero_array[k++].column = j;
+                zero_array[k].first = i;
+                zero_array[k++].second = j;
             }
-
         }
-
     }
 
     for (size_t i = 0; i < k; i++)
     {
-        nullify_row(array, zero_array[i].row, cols);
-        nullify_column(array, zero_array[i].column, rows);
+        nullify_row(my_array, zero_array[i].first);
+        nullify_column(my_array, zero_array[i].second);
     }
-    free(zero_array);
 }
 
 
 
-void nullify_row(int **array, size_t i, size_t length)
+void nullify_row(matrix &my_array, size_t i)
 {
-    for (size_t j = 0; j < length; j++)
-        array[i][j] = 0;
+    if (i > my_array.size() -1)
+    {
+        std::cout << "Row index chosen is greater than number of rows in matrix.";
+    }
+    else
+    {
+        for (size_t j = 0, length = my_array[0].size(); j < length; j++)
+            my_array[i][j] = 0;
+    }
 }
 
-void nullify_column(int **array, size_t j, size_t height)
+void nullify_column(matrix &my_array, size_t j)
 {
-    for (size_t i = 0; i < height; i++)
-        array[i][j] = 0;
+    if (j > my_array[0].size() -1)
+    {
+        std::cout << "Column index chosen is greater than number of columns in matrix.";
+    }
+    else
+    {
+        for (size_t i = 0, height = my_array.size(); i < height; i++)
+            my_array[i][j] = 0;
+    }
 }
 
