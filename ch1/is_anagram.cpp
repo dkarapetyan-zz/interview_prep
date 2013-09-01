@@ -10,7 +10,8 @@ bool is_anagram(std::string string1, std::string string2);
 
 int main()
 {
-    std::string string1, string2; 
+
+    std::string string1, string2;
     std::cout << "Enter a string \n";
     std::cin >> string1;
     std::cout << "Enter another string \n";
@@ -32,7 +33,7 @@ bool is_anagram(std::string string1, std::string string2)
         return false;
     }
 
-    else 
+    else
     {
         for (size_t i =0; i < len1; i++)
         {
