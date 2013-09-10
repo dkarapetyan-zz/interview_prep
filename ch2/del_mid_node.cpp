@@ -1,6 +1,6 @@
 // delete node in middle of linked list
-
-void del_mid_node(linkedlist my_list, node *my_node)
+#include <cstdlib>
+void del_mid_node(linkedlist *my_list, node *my_node)
 {
     // if linked list is only one element
 
@@ -13,7 +13,7 @@ void del_mid_node(linkedlist my_list, node *my_node)
     {
 
         node *prev_node;
-        for (prev_node = my_list.head(); prev_node.next !=my_node ; ++prev_node){}
+        for (prev_node = my_list->head; prev_node->next !=my_node ; prev_node = prev_node->next){}
 
         node *temp = prev_node->next;
         prev_node->next = prev_node->next->next;
