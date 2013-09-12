@@ -167,12 +167,3 @@ void setofstacks::push(int data)
     }
 }
 
-
-
-int main()
-{
-    setofstacks my_set;
-    my_set.push(5);
-
-    return 0;
-}
