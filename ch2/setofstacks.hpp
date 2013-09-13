@@ -127,8 +127,7 @@ linkedlist::linkedlist()
 
 linkedlist::linkedlist(int data)
 {
-    unique_ptr<node> new_node(new node(data));
-    head = std::move(new_node);
+    head = unique_ptr<node>(new node(data));
     current_size=1;
 }
 
@@ -149,8 +148,7 @@ node linkedlist::pop()
 
 void linkedlist::push(int data)
 {
-    unique_ptr<node> new_node(new node(data, head)); 
-    head = std::move(new_node);
+    head = unique_ptr<node>(new node(data, head)); 
     current_size+=1;
 }
 
@@ -177,17 +175,16 @@ size_t setofstacks::size()
 }
 void setofstacks::push(int data)
 {
-    linkedlist my_list(data);
 
     if (vec_of_stacks.size() ==0)
     {
-        vec_of_stacks.push_back(std::move(my_list));
+        vec_of_stacks.emplace_back(data);
         ++current_size;
     }
 
     else if (vec_of_stacks[head].size() >= max_size)
     {
-        vec_of_stacks.push_back(std::move(my_list));
+        vec_of_stacks.emplace_back(data);
         ++head;
         ++current_size;
     }
