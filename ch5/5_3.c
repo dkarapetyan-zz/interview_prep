@@ -17,7 +17,6 @@ printf("%s\n", strcatMy(string1, string2));
 char *  strcatMy(char *s, char *t)
 {
   char * begin = s;
-  int i = 0;
   while(*s++ != '\0') {
    ; 
   }

@@ -45,11 +45,11 @@ void ungetch(int c)
 
 int getint(int *pn)
 {
-  int c, d, sign;
-  while (isspace(c = getch())) /* skip white space */ 
+  int c, d=0, sign;
+  while (isspace(c = getch())) /* skip white space */
     ;
   if (!isdigit(c) && c != EOF && c != '+' && c != '-')
-  { 
+  {
     ungetch(c); /* it is not a number */
     return 0;
   }
@@ -60,12 +60,14 @@ int getint(int *pn)
   return 0;
   }
   else
+  {
     ungetch(d);
+  }
 
   for (*pn = 0; c = getch(), isdigit(c);)
     *pn = 10 * *pn + (c - '0');
   *pn *= sign;
   if (c != EOF)
     ungetch(c);
-  return c; 
+  return c;
 }

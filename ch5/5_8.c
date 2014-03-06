@@ -11,25 +11,26 @@ int day_of_year(int year, int month, int day)
   else
   {
   int i, leap;
-  leap = year%4 == 0 && year%100 != 0 || year%400 == 0; 
+  leap = (year%4 == 0 && year%100 != 0) || year%400 == 0;
   for (i = 1; i < month; i++)
     day += daytab[leap][i];
   return day;
 }
 }
 /* month_day: set month, day from day of year */
-int month_day(int year, int yearday, int *pmonth, int *pday) 
+int month_day(int year, int yearday, int *pmonth, int *pday)
 {
   if (yearday < 1 || yearday > 366)
     return -1;
   else {
   int i, leap;
-  leap = year%4 == 0 && year%100 != 0 || year%400 == 0; 
+  leap = (year%4 == 0 && year%100 != 0) || year%400 == 0;
 
   for (i = 1; yearday > daytab[leap][i]; i++)
     yearday -= daytab[leap][i];
 
   *pmonth = i;
   *pday = yearday;
+  return 0;
   }
 }
