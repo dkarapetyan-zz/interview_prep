@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		4B5DEA2A320BB62ED1085A90 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4B5DEA5EC8B97FF2639B64D5 /* main.cpp */; };
+		4B5DEE0E5A64E3CC9CDC01DE /* rm_dup_link_list.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4B5DE65709FA67DC51F23970 /* rm_dup_link_list.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -23,9 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		4B5DEA5EC8B97FF2639B64D5 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
-		4B5DEB958C8C8B494D9ACAFE /* rm_dup_linked_list */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = rm_dup_linked_list; sourceTree = BUILT_PRODUCTS_DIR; };
-		4B5DEB967E23B1E0ABABC271 /* rm_dup_linked_list.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = rm_dup_linked_list.1; sourceTree = "<group>"; };
+		4B5DE65709FA67DC51F23970 /* rm_dup_link_list.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = rm_dup_link_list.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,8 +40,7 @@
 		4B5DE009FA9A443D0A899EEE /* rm_dup_linked_list */ = {
 			isa = PBXGroup;
 			children = (
-				4B5DEA5EC8B97FF2639B64D5 /* main.cpp */,
-				4B5DEB967E23B1E0ABABC271 /* rm_dup_linked_list.1 */,
+				4B5DE65709FA67DC51F23970 /* rm_dup_link_list.cpp */,
 			);
 			path = rm_dup_linked_list;
 			sourceTree = "<group>";
@@ -59,7 +56,6 @@
 		4B5DEBAAD1F377F87032AB4D /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				4B5DEB958C8C8B494D9ACAFE /* rm_dup_linked_list */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -81,7 +77,6 @@
 			);
 			name = rm_dup_linked_list;
 			productName = rm_dup_linked_list;
-			productReference = 4B5DEB958C8C8B494D9ACAFE /* rm_dup_linked_list */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -114,7 +109,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4B5DEA2A320BB62ED1085A90 /* main.cpp in Sources */,
+				4B5DEE0E5A64E3CC9CDC01DE /* rm_dup_link_list.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

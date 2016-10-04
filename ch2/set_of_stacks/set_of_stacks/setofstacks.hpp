@@ -221,4 +221,3 @@ vector<linkedlist> &setofstacks::get_stacks()
     return vec_of_stacks;
 }
 
-
