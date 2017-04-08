@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="PostgreSQL - exercises@localhost" uuid="36e51880-41ec-44f9-8a0e-bd3d31bc46bf">
+      <secret-storage>master_key</secret-storage>
+      <user-name>davidkarapetyan</user-name>
+      <schema-pattern>exercises.cd</schema-pattern>
+      <default-schemas>exercises.public</default-schemas>
+    </data-source>
+  </component>
+</project>

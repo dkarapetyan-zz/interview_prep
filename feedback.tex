@@ -1,0 +1,108 @@
+\documentclass[12pt,reqno]{amsart}
+\usepackage{amssymb}
+\usepackage{appendix}
+\usepackage[showonlyrefs=true]{mathtools} %amsmath extension package
+\usepackage{cancel}  %for cancelling terms explicity on pdf
+\usepackage{yhmath}   %makes fourier transform look nicer, among other things
+\usepackage{framed}  %for framing remarks, theorems, etc.
+\usepackage{enumerate} %to change enumerate symbols
+\usepackage[margin=2.5cm]{geometry}  %page layout
+\setcounter{tocdepth}{1} %must come before secnumdepth--else, pain
+\setcounter{secnumdepth}{1} %number only sections, not subsections
+%\usepackage[pdftex]{graphicx} %for importing pictures into latex--pdf compilation
+\numberwithin{equation}{section}  %eliminate need for keeping track of counters
+%\numberwithin{figure}{section}
+\setlength{\parindent}{0in} %no indentation of paragraphs after section title
+\renewcommand{\baselinestretch}{1.1} %increases vert spacing of text
+\usepackage{hyperref}
+\hypersetup{colorlinks=true,
+	linkcolor=blue,
+	citecolor=blue,
+	urlcolor=blue,
+}
+\usepackage[alphabetic, initials, msc-links]{amsrefs} %for the bibliography; uses cite pkg. Must be loaded after hyperref, otherwise doesn't work properly (conflicts with cref in particular)
+\usepackage{cleveref} %must be last loaded package to work properly
+\newcommand{\ds}{\displaystyle}
+\newcommand{\ts}{\textstyle}
+\newcommand{\nin}{\noindent}
+\newcommand{\rr}{\mathbb{R}}
+\newcommand{\nn}{\mathbb{N}}
+\newcommand{\zz}{\mathbb{Z}}
+\newcommand{\cc}{\mathbb{C}}
+\newcommand{\ci}{\mathbb{T}}
+\newcommand{\zzdot}{\dot{\zz}}
+\newcommand{\wh}{\widehat}
+\newcommand{\p}{\partial}
+\newcommand{\ee}{\varepsilon}
+\newcommand{\vp}{\varphi}
+\newcommand{\wt}{\widetilde}
+\newtheorem{theorem}{Theorem}[section]
+\newtheorem{lemma}[theorem]{Lemma}
+\newtheorem{corollary}[theorem]{Corollary}
+\newtheorem{claim}[theorem]{Claim}
+\newtheorem{prop}[theorem]{Proposition}
+\newtheorem{proposition}[theorem]{Proposition}
+\newtheorem{no}[theorem]{Notation}
+\newtheorem{definition}[theorem]{Definition}
+\newtheorem{remark}[theorem]{Remark}
+\newtheorem{examp}{Example}[section]
+\newtheorem {exercise}[theorem] {Exercise}
+\makeatletter \renewenvironment{proof}[1][\proofname] {\par\pushQED{\qed}\normalfont\topsep6\p@\@plus6\p@\relax\trivlist\item[\hskip\labelsep\bfseries#1\@addpunct{.}]\ignorespaces}{\popQED\endtrivlist\@endpefalse} \makeatother%
+%makes proof environment bold instead of italic
+	\newcommand{\uol}{u^\omega_\lambda}
+	\newcommand{\lbar}{\bar{l}}
+	\renewcommand{\l}{\lambda}
+	\newcommand{\R}{\mathbb R}
+	\newcommand{\RR}{\mathcal R}
+	\newcommand{\al}{\alpha}
+	\newcommand{\ve}{q}
+	\newcommand{\tg}{{tan}}
+	\newcommand{\m}{q}
+	\newcommand{\N}{N}
+	\newcommand{\ta}{{\tilde{a}}}
+	\newcommand{\tb}{{\tilde{b}}}
+	\newcommand{\tc}{{\tilde{c}}}
+	\newcommand{\tS}{{\tilde S}}
+	\newcommand{\tP}{{\tilde P}}
+	\newcommand{\tu}{{\tilde{u}}}
+	\newcommand{\tw}{{\tilde{w}}}
+	\newcommand{\tA}{{\tilde{A}}}
+	\newcommand{\tX}{{\tilde{X}}}
+	\newcommand{\tphi}{{\tilde{\phi}}}
+	\synctex=1
+	\begin{document}
+	\title{Interview Feedback}
+	\author{}
+	\address{}
+	\date{}
+	\maketitle
+	\section{Riot Games}
+	\subsection{Xioayang (data scientist)}
+	\begin{enumerate}
+		\item{} primarily interested in research. Our focus is building up data
+			science product
+		\item{}
+			This is a dynamic environment--be humble, try to learn new things
+		\item{}
+			Got feeling I was looking for a more laid back environment--they are looking
+			for more fast paced guy (interpretation--work a lot, get paid little)
+		\item{}
+			Vibe they got is I'm looking for more low level team members to do the
+			tedious work (this is true---it seems they want one or two data scientists
+			to do basically everything
+	\end{enumerate}
+		%\nocite{*}
+		%\bibliography{/Users/davidkarapetyan/math/bib-files/references}
+	\subsection{Krissi (HR)}
+	\begin{enumerate}
+		\item{}
+		Organizational misfit, not right culture for me
+		\item{}
+		Reapply period--no fixed period, just eough time to grow/align
+		with company (uh, no thanks)
+		\item{}
+		Cover letter showing how you align better
+	\end{enumerate}
+	\end{document}
+
+
