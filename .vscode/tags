@@ -1,0 +1,333 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+A	../amazon_questions/missing_copy_array.py	/^    A = [389, 299, 65, 518, 361, 103, 342, 406, 24, 79, 192, 181, 178, 205, 38,$/;"	kind:variable	line:57
+A	../amazon_questions/palindrome_partioning.py	/^    A = "abc"$/;"	kind:variable	line:52
+LRUCache	../interview_bit/lru_cache.py	/^class LRUCache:$/;"	kind:class	line:3
+ListNode	../leetcode/adding_two_ll.py	/^class ListNode(object):$/;"	kind:class	line:13
+ListNode	../leetcode/adding_two_ll_2.py	/^class ListNode(object):$/;"	kind:class	line:18
+MinStack	../amazon_questions/min_stack.py	/^class MinStack:$/;"	kind:class	line:23
+OBJ	../amazon_questions/all_subsets.py	/^    OBJ = Solution()$/;"	kind:variable	line:46
+Solution	../amazon_questions/all_subsets.py	/^class Solution:$/;"	kind:class	line:25
+Solution	../amazon_questions/all_subsets_no_dup.py	/^class Solution:$/;"	kind:class	line:24
+Solution	../amazon_questions/best_time_buy_sell_stock_iii.py	/^class Solution:$/;"	kind:class	line:34
+Solution	../amazon_questions/buy_sell_stocks_i.py	/^class Solution:$/;"	kind:class	line:13
+Solution	../amazon_questions/largest_number.py	/^class Solution:$/;"	kind:class	line:11
+Solution	../amazon_questions/longest_increasing_subseq.py	/^class Solution:$/;"	kind:class	line:17
+Solution	../amazon_questions/max_sum_path_bin_tree.py	/^class Solution:$/;"	kind:class	line:21
+Solution	../amazon_questions/median_array.py	/^class Solution:$/;"	kind:class	line:17
+Solution	../amazon_questions/missing_copy_array.py	/^class Solution:$/;"	kind:class	line:21
+Solution	../amazon_questions/palindrome_partioning.py	/^class Solution:$/;"	kind:class	line:11
+Solution	../amazon_questions/power_two_integers.py	/^class Solution:$/;"	kind:class	line:12
+Solution	../amazon_questions/print_spiral_matrix.py	/^class Solution:$/;"	kind:class	line:1
+Solution	../amazon_questions/sq_root_func.py	/^class Solution:$/;"	kind:class	line:1
+Solution	../amazon_questions/substring_of_string.py	/^class Solution:$/;"	kind:class	line:15
+Solution	../amazon_questions/target_sum_combinations.py	/^class Solution:$/;"	kind:class	line:29
+Solution	../amazon_questions/valid_ip.py	/^class Solution:$/;"	kind:class	line:13
+Solution	../interview_bit/climbing_stairs.py	/^class Solution:$/;"	kind:class	line:13
+Solution	../leetcode/adding_two_ll.py	/^class Solution(object):$/;"	kind:class	line:19
+Solution	../leetcode/adding_two_ll_2.py	/^class Solution(object):$/;"	kind:class	line:24
+Solution	../leetcode/best_time_buy_sell_mult.py	/^class Solution(object):$/;"	kind:class	line:10
+Solution	../leetcode/best_time_buy_sell_stock.py	/^class Solution(object):$/;"	kind:class	line:20
+Solution	../leetcode/coin_change.py	/^class Solution(object):$/;"	kind:class	line:1
+Solution	../leetcode/container_most_water.py	/^class Solution(object):$/;"	kind:class	line:12
+Solution	../leetcode/contains_duplicate.py	/^class Solution(object):$/;"	kind:class	line:5
+Solution	../leetcode/disappear_num.py	/^class Solution(object):$/;"	kind:class	line:17
+Solution	../leetcode/guess_num.py	/^class Solution(object):$/;"	kind:class	line:6
+Solution	../leetcode/house_robber.py	/^class Solution(object):$/;"	kind:class	line:1
+Solution	../leetcode/invert_bin_tree.py	/^class Solution(object):$/;"	kind:class	line:22
+Solution	../leetcode/jump_game.py	/^class Solution(object):$/;"	kind:class	line:14
+Solution	../leetcode/linked_list_cycle.py	/^class Solution(object):$/;"	kind:class	line:12
+Solution	../leetcode/longest_common_prefix.py	/^class Solution(object):$/;"	kind:class	line:4
+Solution	../leetcode/longest_non_rep_sub_str.py	/^class Solution(object):$/;"	kind:class	line:13
+Solution	../leetcode/longest_palindromic_sub.py	/^class Solution(object):$/;"	kind:class	line:17
+Solution	../leetcode/max_product_subarray.py	/^class Solution(object):$/;"	kind:class	line:8
+Solution	../leetcode/max_subarray.py	/^class Solution(object):$/;"	kind:class	line:7
+Solution	../leetcode/maximal_square.py	/^class Solution(object):$/;"	kind:class	line:5
+Solution	../leetcode/minimum_path_sum.py	/^class Solution(object):$/;"	kind:class	line:10
+Solution	../leetcode/move_zeroes.py	/^class Solution(object):$/;"	kind:class	line:1
+Solution	../leetcode/nim_game.py	/^class Solution(object):$/;"	kind:class	line:20
+Solution	../leetcode/remove_dup_sorted_ll.py	/^class Solution(object):$/;"	kind:class	line:15
+Solution	../leetcode/remove_duplicates_sorted_array.py	/^class Solution(object):$/;"	kind:class	line:1
+Solution	../leetcode/remove_element.py	/^class Solution(object):$/;"	kind:class	line:16
+Solution	../leetcode/remove_nth_node_from_end.py	/^class Solution(object):$/;"	kind:class	line:21
+Solution	../leetcode/reverse_linked_list.py	/^class Solution(object):$/;"	kind:class	line:10
+Solution	../leetcode/reverse_words_string.py	/^class Solution(object):$/;"	kind:class	line:7
+Solution	../leetcode/rotate_array.py	/^class Solution(object):$/;"	kind:class	line:11
+Solution	../leetcode/summary_ranges.py	/^class Solution(object):$/;"	kind:class	line:6
+Solution	../leetcode/symmetric_tree.py	/^class Solution(object):$/;"	kind:class	line:29
+Solution	../leetcode/two_sum.py	/^class Solution(object):$/;"	kind:class	line:14
+Solution	../leetcode/two_sum_sorted_input.py	/^class Solution(object):$/;"	kind:class	line:15
+Solution	../leetcode/valid_anagram.py	/^class Solution(object):$/;"	kind:class	line:15
+Solution	../leetcode/word_break.py	/^class Solution(object):$/;"	kind:class	line:1
+THE_ARRAY	../amazon_questions/all_subsets.py	/^    THE_ARRAY = [1, 2, 3]$/;"	kind:variable	line:47
+__init__	../amazon_questions/min_stack.py	/^    def __init__(self):$/;"	kind:member	line:24
+__init__	../interview_bit/lru_cache.py	/^    def __init__(self, capacity):$/;"	kind:member	line:4
+__init__	../leetcode/adding_two_ll.py	/^    def __init__(self, x):$/;"	kind:member	line:14
+__init__	../leetcode/adding_two_ll_2.py	/^    def __init__(self, x):$/;"	kind:member	line:19
+__merge	../amazon_questions/median_array.py	/^    def __merge(self, A, B):$/;"	kind:member	line:21
+_canWinNim	../leetcode/nim_game.py	/^    def _canWinNim(self, n, table):$/;"	kind:member	line:22
+_can_jump	../leetcode/jump_game.py	/^    def _can_jump(self, nums, i, history):$/;"	kind:member	line:23
+_check_ones	../leetcode/maximal_square.py	/^    def _check_ones(self, matrix, corner1, corner2, history):$/;"	kind:member	line:6
+_clash_in_column	../cracking_coding_interview/ch8/eight_queens_chess.py	/^def _clash_in_column(i, j, matrix):$/;"	kind:function	line:5
+_clash_in_diag	../cracking_coding_interview/ch8/eight_queens_chess.py	/^def _clash_in_diag(i, j, array):$/;"	kind:function	line:19
+_clash_in_row	../cracking_coding_interview/ch8/eight_queens_chess.py	/^def _clash_in_row(i, j, matrix):$/;"	kind:function	line:12
+_cmp	../amazon_questions/largest_number.py	/^    def _cmp(self, string1, string2):$/;"	kind:member	line:16
+_coinChange	../leetcode/coin_change.py	/^    def _coinChange(self, coins, amount, table):$/;"	kind:member	line:70
+_coinChange2	../leetcode/coin_change.py	/^    def _coinChange2(self, coins, amount, table):$/;"	kind:member	line:35
+_coinChange3	../leetcode/coin_change.py	/^    def _coinChange3(self, coins, amount, table):$/;"	kind:member	line:4
+_combinationSum	../amazon_questions/target_sum_combinations.py	/^    def _combinationSum(self, index, A, B):$/;"	kind:member	line:62
+_expand_around_center	../leetcode/longest_palindromic_sub.py	/^    def _expand_around_center(self, s, left, right):$/;"	kind:member	line:18
+_helper	../amazon_questions/all_subsets.py	/^    def _helper(self, index, A):$/;"	kind:member	line:28
+_helper	../amazon_questions/all_subsets_no_dup.py	/^    def _helper(self, index, A):$/;"	kind:member	line:27
+_is_palindrome	../amazon_questions/palindrome_partioning.py	/^    def _is_palindrome(self, A, i, j):$/;"	kind:member	line:15
+_ismirror	../leetcode/symmetric_tree.py	/^    def _ismirror(self, left, right):$/;"	kind:member	line:30
+_lowest_one_bit	../cracking_coding_interview/ch5/next_largest_smallest.py	/^def _lowest_one_bit(n):$/;"	kind:function	line:1
+_max_ending_at_node	../amazon_questions/max_sum_path_bin_tree.py	/^    def _max_ending_at_node(self, the_node):$/;"	kind:member	line:24
+_minCut	../amazon_questions/palindrome_partioning.py	/^    def _minCut(self, A, i, j, storage):$/;"	kind:member	line:18
+_minPathSum	../leetcode/minimum_path_sum.py	/^    def _minPathSum(self, grid, (k, l), table):$/;"	kind:member	line:39
+_minPathSum2	../leetcode/minimum_path_sum.py	/^    def _minPathSum2(self, grid, (k, l), table):$/;"	kind:member	line:13
+_next_smallest	../cracking_coding_interview/ch5/next_largest_smallest.py	/^def _next_smallest(n):$/;"	kind:function	line:11
+_not_attack	../cracking_coding_interview/ch8/eight_queens_chess.py	/^def _not_attack(i, j, matrix):$/;"	kind:function	line:29
+_outer_ring	../amazon_questions/print_spiral_matrix.py	/^    def _outer_ring(self, A, tl_row, tl_col, br_row, br_col, storage):$/;"	kind:member	line:5
+_prod	../amazon_questions/missing_copy_array.py	/^    def _prod(self, A):$/;"	kind:member	line:24
+_spiralOrder	../amazon_questions/print_spiral_matrix.py	/^    def _spiralOrder(self, A, storage):$/;"	kind:member	line:20
+_sqrt	../amazon_questions/sq_root_func.py	/^    def _sqrt(self, A, left, right):$/;"	kind:member	line:4
+_strStr1	../amazon_questions/substring_of_string.py	/^    def _strStr1(self, haystack, needle, i, j):$/;"	kind:member	line:21
+_swap	../leetcode/move_zeroes.py	/^    def _swap(self, nums, i, j):$/;"	kind:member	line:2
+_valid_ip	../amazon_questions/valid_ip.py	/^    def _valid_ip(self, index, dots, A):$/;"	kind:member	line:16
+_wordBreak	../leetcode/word_break.py	/^    def _wordBreak(self, s, the_dict):$/;"	kind:member	line:26
+_wordBreak2	../leetcode/word_break.py	/^    def _wordBreak2(self, s, the_dict):$/;"	kind:member	line:3
+addTwoNumbers	../leetcode/adding_two_ll.py	/^    def addTwoNumbers(self, l1, l2):$/;"	kind:member	line:20
+addTwoNumbers	../leetcode/adding_two_ll_2.py	/^    def addTwoNumbers(self, l1, l2):$/;"	kind:member	line:25
+adding_two_ll.py	../leetcode/adding_two_ll.py	1;"	kind:file	line:1
+adding_two_ll_2.py	../leetcode/adding_two_ll_2.py	1;"	kind:file	line:1
+all_subsets.py	../amazon_questions/all_subsets.py	1;"	kind:file	line:1
+all_subsets_no_dup.py	../amazon_questions/all_subsets_no_dup.py	1;"	kind:file	line:1
+amount	../leetcode/coin_change.py	/^    amount = 8839$/;"	kind:variable	line:96
+arr	../leetcode/best_time_buy_sell_mult.py	/^    arr = [5, 2, 3, 2, 6, 6, 2, 9, 1, 0, 7, 4, 5, 0]$/;"	kind:variable	line:26
+arr	../leetcode/house_robber.py	/^    arr = [1, 2]$/;"	kind:variable	line:17
+arr	../leetcode/jump_game.py	/^    arr = [0, 1]$/;"	kind:variable	line:59
+arr	../leetcode/max_product_subarray.py	/^    arr = [0]$/;"	kind:variable	line:31
+arr	../leetcode/summary_ranges.py	/^    arr = [0, 1, 2, 3, 5, 6, 8, 10]$/;"	kind:variable	line:35
+best_time_buy_sell_mult.py	../leetcode/best_time_buy_sell_mult.py	1;"	kind:file	line:1
+best_time_buy_sell_stock.py	../leetcode/best_time_buy_sell_stock.py	1;"	kind:file	line:1
+best_time_buy_sell_stock_iii.py	../amazon_questions/best_time_buy_sell_stock_iii.py	1;"	kind:file	line:1
+bit_insert	../cracking_coding_interview/ch5/sub_bits.py	/^def bit_insert(n, m, i, j):$/;"	kind:function	line:1
+bobo	../leetcode/move_zeroes.py	/^    bobo = [0, 0, 1]$/;"	kind:variable	line:18
+buy_sell_stocks_i.py	../amazon_questions/buy_sell_stocks_i.py	1;"	kind:file	line:1
+canJump	../leetcode/jump_game.py	/^    def canJump(self, nums):$/;"	kind:member	line:43
+canJump2	../leetcode/jump_game.py	/^    def canJump2(self, nums):$/;"	kind:member	line:16
+canWinNim	../leetcode/nim_game.py	/^    def canWinNim(self, n):$/;"	kind:member	line:58
+canWinNim2	../leetcode/nim_game.py	/^    def canWinNim2(self, n):$/;"	kind:member	line:40
+canWinNim3	../leetcode/nim_game.py	/^    def canWinNim3(self, n):$/;"	kind:member	line:46
+check_binary_search_tree.py	../hackerrank/check_binary_search_tree.py	1;"	kind:file	line:1
+check_binary_search_tree_	../hackerrank/check_binary_search_tree.py	/^def check_binary_search_tree_(root):$/;"	kind:function	line:10
+check_sudoku	../leetcode/sudoku_verify.py	/^def check_sudoku(grid):$/;"	kind:function	line:16
+climbStairs	../interview_bit/climbing_stairs.py	/^    def climbStairs(self, A):$/;"	kind:member	line:16
+climbing_stairs.py	../interview_bit/climbing_stairs.py	1;"	kind:file	line:1
+coinChange	../leetcode/coin_change.py	/^    def coinChange(self, coins, amount):$/;"	kind:member	line:85
+coin_change.py	../leetcode/coin_change.py	1;"	kind:file	line:1
+coins	../leetcode/coin_change.py	/^    coins = [3, 7, 405, 436]$/;"	kind:variable	line:95
+collections	../interview_bit/lru_cache.py	/^import collections$/;"	kind:namespace	line:1
+combinationSum	../amazon_questions/target_sum_combinations.py	/^    def combinationSum(self, A, B):$/;"	kind:member	line:78
+combinationSum1	../amazon_questions/target_sum_combinations.py	/^    def combinationSum1(self, A, B):$/;"	kind:member	line:33
+container_most_water.py	../leetcode/container_most_water.py	1;"	kind:file	line:1
+containsNearbyDuplicate	../leetcode/contains_duplicate.py	/^    def containsNearbyDuplicate(self, nums, k):$/;"	kind:member	line:6
+contains_duplicate.py	../leetcode/contains_duplicate.py	1;"	kind:file	line:1
+copy	../cracking_coding_interview/ch8/eight_queens_chess.py	/^from copy import copy$/;"	kind:namespace	line:1
+copy	../leetcode/reverse_linked_list.py	/^from copy import copy$/;"	kind:namespace	line:1
+count	../leetcode/nim_game.py	/^from itertools import islice, count$/;"	kind:namespace	line:17
+deepcopy	../amazon_questions/all_subsets.py	/^from copy import deepcopy$/;"	kind:namespace	line:22
+deepcopy	../amazon_questions/all_subsets_no_dup.py	/^from copy import deepcopy$/;"	kind:namespace	line:20
+deepcopy	../amazon_questions/target_sum_combinations.py	/^from copy import deepcopy$/;"	kind:namespace	line:25
+deleteDuplicates	../leetcode/remove_dup_sorted_ll.py	/^    def deleteDuplicates(self, head):$/;"	kind:member	line:16
+dis_num_first	../leetcode/disappear_num.py	/^    def dis_num_first(self, nums):$/;"	kind:member	line:20
+dis_num_second	../leetcode/disappear_num.py	/^    def dis_num_second(self, nums):$/;"	kind:member	line:29
+disappear_num.py	../leetcode/disappear_num.py	1;"	kind:file	line:1
+eight_queens_chess.py	../cracking_coding_interview/ch8/eight_queens_chess.py	1;"	kind:file	line:1
+final	../amazon_questions/target_sum_combinations.py	/^    final = obj.combinationSum(the_array, 14)$/;"	kind:variable	line:86
+findMedianSortedArrays	../amazon_questions/median_array.py	/^    def findMedianSortedArrays(self, A, B):$/;"	kind:member	line:36
+get	../interview_bit/lru_cache.py	/^    def get(self, key):$/;"	kind:member	line:8
+getMin	../amazon_questions/min_stack.py	/^    def getMin(self):$/;"	kind:member	line:50
+guessNumber	../leetcode/guess_num.py	/^    def guessNumber(self, n):$/;"	kind:member	line:7
+guess_num.py	../leetcode/guess_num.py	1;"	kind:file	line:1
+hasCycle	../leetcode/linked_list_cycle.py	/^    def hasCycle(self, head):$/;"	kind:member	line:31
+hasCycle2	../leetcode/linked_list_cycle.py	/^    def hasCycle2(self, head):$/;"	kind:member	line:14
+haystack	../amazon_questions/substring_of_string.py	/^    haystack = 'bobexcattyexcelsior'$/;"	kind:variable	line:47
+house_robber.py	../leetcode/house_robber.py	1;"	kind:file	line:1
+input	../leetcode/best_time_buy_sell_stock.py	/^    input = [7, 1, 5, 3, 6, 4]$/;"	kind:variable	line:49
+interviewbit_int.py	../interviewbit_int.py	1;"	kind:file	line:1
+invertTree	../leetcode/invert_bin_tree.py	/^    def invertTree(self, root):$/;"	kind:member	line:23
+invert_bin_tree.py	../leetcode/invert_bin_tree.py	1;"	kind:file	line:1
+isAnagram	../leetcode/valid_anagram.py	/^    def isAnagram(self, s, t):$/;"	kind:member	line:16
+isPower	../amazon_questions/power_two_integers.py	/^    def isPower(self, A):$/;"	kind:member	line:16
+isSymmetric	../leetcode/symmetric_tree.py	/^    def isSymmetric(self, root):$/;"	kind:member	line:42
+islice	../leetcode/nim_game.py	/^from itertools import islice, count$/;"	kind:namespace	line:17
+itertools	../amazon_questions/all_subsets_no_dup.py	/^import itertools$/;"	kind:namespace	line:21
+itertools	../amazon_questions/target_sum_combinations.py	/^import itertools$/;"	kind:namespace	line:26
+itertools	../leetcode/sudoku_verify.py	/^import itertools$/;"	kind:namespace	line:1
+jump_game.py	../leetcode/jump_game.py	1;"	kind:file	line:1
+largestNumber	../amazon_questions/largest_number.py	/^    def largestNumber(self, A):$/;"	kind:member	line:24
+largest_number.py	../amazon_questions/largest_number.py	1;"	kind:file	line:1
+length_longest_substring	../leetcode/longest_non_rep_sub_str.py	/^    def length_longest_substring(s):$/;"	kind:member	line:16
+length_ls	../leetcode/longest_non_rep_sub_str.py	/^    def length_ls(self, s):$/;"	kind:member	line:33
+linked_list_cycle.py	../leetcode/linked_list_cycle.py	1;"	kind:file	line:1
+lis	../amazon_questions/longest_increasing_subseq.py	/^    def lis(self, A):$/;"	kind:member	line:20
+longestCommonPrefix	../leetcode/longest_common_prefix.py	/^    def longestCommonPrefix(self, strs):$/;"	kind:member	line:5
+longestPalindrome	../leetcode/longest_palindromic_sub.py	/^    def longestPalindrome(self, s):$/;"	kind:member	line:26
+longest_common_prefix.py	../leetcode/longest_common_prefix.py	1;"	kind:file	line:1
+longest_increasing_subseq.py	../amazon_questions/longest_increasing_subseq.py	1;"	kind:file	line:1
+longest_non_rep_sub_str.py	../leetcode/longest_non_rep_sub_str.py	1;"	kind:file	line:1
+longest_palindromic_sub.py	../leetcode/longest_palindromic_sub.py	1;"	kind:file	line:1
+lru_cache.py	../interview_bit/lru_cache.py	1;"	kind:file	line:1
+maxArea	../leetcode/container_most_water.py	/^    def maxArea(self, height):$/;"	kind:member	line:32
+maxArea_ineff	../leetcode/container_most_water.py	/^    def maxArea_ineff(self, height):$/;"	kind:member	line:13
+maxPathSum	../amazon_questions/max_sum_path_bin_tree.py	/^    def maxPathSum(self, A):$/;"	kind:member	line:40
+maxProfit	../amazon_questions/best_time_buy_sell_stock_iii.py	/^    def maxProfit(self, A):$/;"	kind:member	line:41
+maxProfit	../amazon_questions/buy_sell_stocks_i.py	/^    def maxProfit(self, A):$/;"	kind:member	line:16
+maxProfit	../leetcode/best_time_buy_sell_mult.py	/^    def maxProfit(self, prices):$/;"	kind:member	line:11
+maxProfit	../leetcode/best_time_buy_sell_stock.py	/^    def maxProfit(self, prices):$/;"	kind:member	line:21
+maxProfit2	../leetcode/best_time_buy_sell_stock.py	/^    def maxProfit2(self, prices):$/;"	kind:member	line:34
+maxProfit_sub	../amazon_questions/best_time_buy_sell_stock_iii.py	/^    def maxProfit_sub(self, A):$/;"	kind:member	line:57
+max_prodarray	../leetcode/max_product_subarray.py	/^    def max_prodarray(self, arr):$/;"	kind:member	line:9
+max_product_subarray.py	../leetcode/max_product_subarray.py	1;"	kind:file	line:1
+max_subarray	../leetcode/max_subarray.py	/^    def max_subarray(self, arr):$/;"	kind:member	line:25
+max_subarray.py	../leetcode/max_subarray.py	1;"	kind:file	line:1
+max_subarray_pos	../leetcode/max_subarray.py	/^    def max_subarray_pos(self, arr):$/;"	kind:member	line:8
+max_sum_path_bin_tree.py	../amazon_questions/max_sum_path_bin_tree.py	1;"	kind:file	line:1
+maximalSquare	../leetcode/maximal_square.py	/^    def maximalSquare(self, matrix):$/;"	kind:member	line:59
+maximal_square.py	../leetcode/maximal_square.py	1;"	kind:file	line:1
+median_array.py	../amazon_questions/median_array.py	1;"	kind:file	line:1
+minCut	../amazon_questions/palindrome_partioning.py	/^    def minCut(self, A):$/;"	kind:member	line:41
+minPathSum	../leetcode/minimum_path_sum.py	/^    def minPathSum(self, grid):$/;"	kind:member	line:57
+min_stack.py	../amazon_questions/min_stack.py	1;"	kind:file	line:1
+minimum_path_sum.py	../leetcode/minimum_path_sum.py	1;"	kind:file	line:1
+missing_copy_array.py	../amazon_questions/missing_copy_array.py	1;"	kind:file	line:1
+moveZeroes	../leetcode/move_zeroes.py	/^    def moveZeroes(self, nums):$/;"	kind:member	line:5
+move_zeroes.py	../leetcode/move_zeroes.py	1;"	kind:file	line:1
+n_pair_parenth.py	../cracking_coding_interview/ch8/n_pair_parenth.py	1;"	kind:file	line:1
+needle	../amazon_questions/substring_of_string.py	/^    needle = 'ex'$/;"	kind:variable	line:48
+next_largest_smallest.py	../cracking_coding_interview/ch5/next_largest_smallest.py	1;"	kind:file	line:1
+nim_game.py	../leetcode/nim_game.py	1;"	kind:file	line:1
+np	../cracking_coding_interview/ch8/eight_queens_chess.py	/^import numpy as np$/;"	kind:namespace	line:2
+np	../cracking_coding_interview/ch8/paint_fill.py	/^import numpy as np$/;"	kind:namespace	line:1
+np	../leetcode/maximal_square.py	/^import numpy as np$/;"	kind:namespace	line:2
+np	../leetcode/minimum_path_sum.py	/^import numpy as np$/;"	kind:namespace	line:6
+np	../leetcode/sudoku_verify.py	/^import numpy as np$/;"	kind:namespace	line:2
+nth_fib	../cracking_coding_interview/ch8/nth_fib.py	/^def nth_fib(n):$/;"	kind:function	line:1
+nth_fib.py	../cracking_coding_interview/ch8/nth_fib.py	1;"	kind:file	line:1
+numbers	../leetcode/two_sum_sorted_input.py	/^    numbers = [2, 7, 11, 15]$/;"	kind:variable	line:33
+obj	../amazon_questions/all_subsets_no_dup.py	/^    obj = Solution()$/;"	kind:variable	line:46
+obj	../amazon_questions/best_time_buy_sell_stock_iii.py	/^    obj = Solution()$/;"	kind:variable	line:72
+obj	../amazon_questions/largest_number.py	/^    obj = Solution()$/;"	kind:variable	line:43
+obj	../amazon_questions/longest_increasing_subseq.py	/^    obj = Solution()$/;"	kind:variable	line:34
+obj	../amazon_questions/missing_copy_array.py	/^    obj = Solution()$/;"	kind:variable	line:56
+obj	../amazon_questions/palindrome_partioning.py	/^    obj = Solution()$/;"	kind:variable	line:51
+obj	../amazon_questions/power_two_integers.py	/^    obj = Solution()$/;"	kind:variable	line:29
+obj	../amazon_questions/print_spiral_matrix.py	/^    obj = Solution()$/;"	kind:variable	line:38
+obj	../amazon_questions/sq_root_func.py	/^    obj = Solution()$/;"	kind:variable	line:23
+obj	../amazon_questions/substring_of_string.py	/^    obj = Solution()$/;"	kind:variable	line:46
+obj	../amazon_questions/target_sum_combinations.py	/^    obj = Solution()$/;"	kind:variable	line:83
+obj	../amazon_questions/valid_ip.py	/^    obj = Solution()$/;"	kind:variable	line:35
+obj	../leetcode/best_time_buy_sell_mult.py	/^    obj = Solution()$/;"	kind:variable	line:27
+obj	../leetcode/best_time_buy_sell_stock.py	/^    obj = Solution()$/;"	kind:variable	line:50
+obj	../leetcode/coin_change.py	/^    obj = Solution()$/;"	kind:variable	line:98
+obj	../leetcode/disappear_num.py	/^    obj = Solution()$/;"	kind:variable	line:44
+obj	../leetcode/house_robber.py	/^    obj = Solution()$/;"	kind:variable	line:18
+obj	../leetcode/jump_game.py	/^    obj = Solution()$/;"	kind:variable	line:58
+obj	../leetcode/longest_non_rep_sub_str.py	/^    obj = Solution()$/;"	kind:variable	line:48
+obj	../leetcode/max_product_subarray.py	/^    obj = Solution()$/;"	kind:variable	line:32
+obj	../leetcode/max_subarray.py	/^    obj = Solution()$/;"	kind:variable	line:39
+obj	../leetcode/maximal_square.py	/^    obj = Solution()$/;"	kind:variable	line:76
+obj	../leetcode/minimum_path_sum.py	/^    obj = Solution()$/;"	kind:variable	line:69
+obj	../leetcode/move_zeroes.py	/^    obj = Solution()$/;"	kind:variable	line:17
+obj	../leetcode/nim_game.py	/^    obj = Solution()$/;"	kind:variable	line:63
+obj	../leetcode/remove_duplicates_sorted_array.py	/^    obj = Solution()$/;"	kind:variable	line:20
+obj	../leetcode/remove_element.py	/^    obj = Solution()$/;"	kind:variable	line:35
+obj	../leetcode/reverse_words_string.py	/^    obj = Solution()$/;"	kind:variable	line:22
+obj	../leetcode/summary_ranges.py	/^    obj = Solution()$/;"	kind:variable	line:34
+obj	../leetcode/two_sum_sorted_input.py	/^    obj = Solution()$/;"	kind:variable	line:35
+obj	../leetcode/word_break.py	/^    obj = Solution()$/;"	kind:variable	line:65
+operator	../leetcode/sort_by_freq.py	/^import operator$/;"	kind:namespace	line:1
+paint_fill	../cracking_coding_interview/ch8/paint_fill.py	/^def paint_fill(array, m, n, color):$/;"	kind:function	line:9
+paint_fill.py	../cracking_coding_interview/ch8/paint_fill.py	1;"	kind:file	line:1
+paint_fill_fin	../cracking_coding_interview/ch8/paint_fill.py	/^def paint_fill_fin(array, m, n, color):$/;"	kind:function	line:4
+pair_parenth	../cracking_coding_interview/ch8/n_pair_parenth.py	/^def pair_parenth(n):$/;"	kind:function	line:1
+palindrome_partioning.py	../amazon_questions/palindrome_partioning.py	1;"	kind:file	line:1
+permutations	../cracking_coding_interview/ch8/permutations_string.py	/^def permutations(my_string, start, end):$/;"	kind:function	line:7
+permutations_string.py	../cracking_coding_interview/ch8/permutations_string.py	1;"	kind:file	line:1
+pop	../amazon_questions/min_stack.py	/^    def pop(self):$/;"	kind:member	line:37
+power_two_integers.py	../amazon_questions/power_two_integers.py	1;"	kind:file	line:1
+powerset	../cracking_coding_interview/ch8/subsets_of_set.py	/^def powerset(seq):$/;"	kind:function	line:1
+print_spiral_matrix.py	../amazon_questions/print_spiral_matrix.py	1;"	kind:file	line:1
+product	../leetcode/container_most_water.py	/^from itertools import product$/;"	kind:namespace	line:9
+product	../leetcode/maximal_square.py	/^from itertools import product$/;"	kind:namespace	line:1
+product	../leetcode/minimum_path_sum.py	/^from itertools import product$/;"	kind:namespace	line:7
+push	../amazon_questions/min_stack.py	/^    def push(self, x):$/;"	kind:member	line:29
+queen_arrange	../cracking_coding_interview/ch8/eight_queens_chess.py	/^def queen_arrange(row_num):$/;"	kind:function	line:36
+removeDuplicates	../leetcode/remove_duplicates_sorted_array.py	/^    def removeDuplicates(self, nums):$/;"	kind:member	line:2
+removeElement	../leetcode/remove_element.py	/^    def removeElement(self, nums, val):$/;"	kind:member	line:17
+removeNthFromEnd	../leetcode/remove_nth_node_from_end.py	/^    def removeNthFromEnd(self, head, n):$/;"	kind:member	line:22
+remove_dup_sorted_ll.py	../leetcode/remove_dup_sorted_ll.py	1;"	kind:file	line:1
+remove_duplicates_sorted_array.py	../leetcode/remove_duplicates_sorted_array.py	1;"	kind:file	line:1
+remove_element.py	../leetcode/remove_element.py	1;"	kind:file	line:1
+remove_nth_node_from_end.py	../leetcode/remove_nth_node_from_end.py	1;"	kind:file	line:1
+rep_n_cents	../cracking_coding_interview/ch8/rep_n_cents.py	/^def rep_n_cents(n, array_denoms):$/;"	kind:function	line:1
+rep_n_cents.py	../cracking_coding_interview/ch8/rep_n_cents.py	1;"	kind:file	line:1
+repeatedNumber	../amazon_questions/missing_copy_array.py	/^    def repeatedNumber(self, A):$/;"	kind:member	line:41
+repeatedNumber2	../amazon_questions/missing_copy_array.py	/^    def repeatedNumber2(self, A):$/;"	kind:member	line:31
+restoreIpAddresses	../amazon_questions/valid_ip.py	/^    def restoreIpAddresses(self, A):$/;"	kind:member	line:30
+result	../cracking_coding_interview/ch8/eight_queens_chess.py	/^    result = queen_arrange(8)$/;"	kind:variable	line:52
+result	../cracking_coding_interview/ch9/rotated_search.py	/^    result = rotation_search([15, 16, 19, 20, 25, 1, 3, 4, 5, 7, 10, 14], 0, 11,$/;"	kind:variable	line:26
+reverseList	../leetcode/reverse_linked_list.py	/^    def reverseList(self, head):$/;"	kind:member	line:11
+reverseWords	../leetcode/reverse_words_string.py	/^    def reverseWords(self, s):$/;"	kind:member	line:8
+reverse_linked_list.py	../leetcode/reverse_linked_list.py	1;"	kind:file	line:1
+reverse_words_string.py	../leetcode/reverse_words_string.py	1;"	kind:file	line:1
+rob	../leetcode/house_robber.py	/^    def rob(self, nums):$/;"	kind:member	line:2
+robot_walk	../cracking_coding_interview/ch8/robot_walk.py	/^def robot_walk(i, j, m, n, forbidden_i, forbidden_j):$/;"	kind:function	line:1
+robot_walk.py	../cracking_coding_interview/ch8/robot_walk.py	1;"	kind:file	line:1
+rotate	../leetcode/rotate_array.py	/^    def rotate(self, nums, k):$/;"	kind:member	line:12
+rotate_array.py	../leetcode/rotate_array.py	1;"	kind:file	line:1
+rotated_search.py	../cracking_coding_interview/ch9/rotated_search.py	1;"	kind:file	line:1
+rotation_search	../cracking_coding_interview/ch9/rotated_search.py	/^def rotation_search(array, start, end, val):$/;"	kind:function	line:1
+s	../leetcode/word_break.py	/^    s = "aaaaaaa"$/;"	kind:variable	line:62
+set	../interview_bit/lru_cache.py	/^    def set(self, key, value):$/;"	kind:member	line:16
+sort_by_freq	../leetcode/sort_by_freq.py	/^def sort_by_freq(the_string):$/;"	kind:function	line:4
+sort_by_freq.py	../leetcode/sort_by_freq.py	1;"	kind:file	line:1
+spiralOrder	../amazon_questions/print_spiral_matrix.py	/^    def spiralOrder(self, A):$/;"	kind:member	line:33
+sq_root_func.py	../amazon_questions/sq_root_func.py	1;"	kind:file	line:1
+sqrt	../amazon_questions/sq_root_func.py	/^    def sqrt(self, A):$/;"	kind:member	line:18
+strStr	../amazon_questions/substring_of_string.py	/^    def strStr(self, haystack, needle):$/;"	kind:member	line:35
+sub_bits.py	../cracking_coding_interview/ch5/sub_bits.py	1;"	kind:file	line:1
+subsets	../amazon_questions/all_subsets.py	/^    def subsets(self, A):$/;"	kind:member	line:38
+subsetsWithDup	../amazon_questions/all_subsets_no_dup.py	/^    def subsetsWithDup(self, A):$/;"	kind:member	line:37
+subsets_of_set.py	../cracking_coding_interview/ch8/subsets_of_set.py	1;"	kind:file	line:1
+substring_of_string.py	../amazon_questions/substring_of_string.py	1;"	kind:file	line:1
+sudoku_ok	../leetcode/sudoku_verify.py	/^def sudoku_ok(line, length):$/;"	kind:function	line:5
+sudoku_ok_square	../leetcode/sudoku_verify.py	/^def sudoku_ok_square(square, length):$/;"	kind:function	line:9
+sudoku_verify.py	../leetcode/sudoku_verify.py	1;"	kind:file	line:1
+summaryRanges	../leetcode/summary_ranges.py	/^    def summaryRanges(self, nums):$/;"	kind:member	line:7
+summary_ranges.py	../leetcode/summary_ranges.py	1;"	kind:file	line:1
+swap	../cracking_coding_interview/ch8/permutations_string.py	/^def swap(i, j, my_string):$/;"	kind:function	line:1
+symmetric_tree.py	../leetcode/symmetric_tree.py	1;"	kind:file	line:1
+target	../leetcode/two_sum_sorted_input.py	/^    target = 9$/;"	kind:variable	line:34
+target_sum_combinations.py	../amazon_questions/target_sum_combinations.py	1;"	kind:file	line:1
+the_arr	../leetcode/max_subarray.py	/^    the_arr = [2, 1, 4]$/;"	kind:variable	line:38
+the_array	../amazon_questions/all_subsets_no_dup.py	/^    the_array = [1, 2, 2, 3]$/;"	kind:variable	line:47
+the_array	../amazon_questions/target_sum_combinations.py	/^    the_array = [1, 3, 7, 20]$/;"	kind:variable	line:84
+the_matrix	../leetcode/maximal_square.py	/^    the_matrix = np.ones((6, 6))$/;"	kind:variable	line:73
+the_matrix	../leetcode/minimum_path_sum.py	/^    the_matrix = np.random.randint(0, 2, size=(7, 7))$/;"	kind:variable	line:68
+top	../amazon_questions/min_stack.py	/^    def top(self):$/;"	kind:member	line:43
+twoSum	../leetcode/two_sum.py	/^    def twoSum(self, nums, target):$/;"	kind:member	line:15
+twoSum	../leetcode/two_sum_sorted_input.py	/^    def twoSum(self, numbers, target):$/;"	kind:member	line:16
+two_sum.py	../leetcode/two_sum.py	1;"	kind:file	line:1
+two_sum_sorted_input.py	../leetcode/two_sum_sorted_input.py	1;"	kind:file	line:1
+valid_anagram.py	../leetcode/valid_anagram.py	1;"	kind:file	line:1
+valid_ip.py	../amazon_questions/valid_ip.py	1;"	kind:file	line:1
+wordBreak	../leetcode/word_break.py	/^    def wordBreak(self, s, wordDict):$/;"	kind:member	line:49
+wordDict	../leetcode/word_break.py	/^    wordDict = ["aaaa", "aa"]$/;"	kind:variable	line:63
+word_break.py	../leetcode/word_break.py	1;"	kind:file	line:1

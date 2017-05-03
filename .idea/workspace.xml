@@ -2,56 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7031d3c8-7450-4b82-91ef-1b9a003b559e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cracking_coding_interview/ch5/next_largest_smallest.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cracking_coding_interview/ch5/sub_bits.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cracking_coding_interview/ch8/eight_queens_chess.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cracking_coding_interview/ch8/n_pair_parenth.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cracking_coding_interview/ch8/paint_fill.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cracking_coding_interview/ch8/permutations_string.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cracking_coding_interview/ch8/rep_n_cents.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cracking_coding_interview/ch8/robot_walk.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cracking_coding_interview/ch8/subsets_of_set.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cracking_coding_interview/ch9/rotated_search.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/adding_two_ll.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/adding_two_ll_2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/best_time_buy_sell_mult.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/best_time_buy_sell_stock.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/coin_change.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/contains_duplicate.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/disappear_num.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/guess_num.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/house_robber.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/invert_bin_tree.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/jump_game.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/linked_list_cycle.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/longest_common_prefix.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/longest_non_rep_sub_str.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/longest_palindromic_sub.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/max_product_subarray.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/max_subarray.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/maximal_square.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/minimum_path_sum.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/move_zeroes.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/nim_game.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/remove_dup_sorted_ll.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/remove_duplicates_sorted_array.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/remove_element.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/remove_nth_node_from_end.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/reverse_linked_list.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/rotate_array.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/sort_by_freq.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/sudoku_verify.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/summary_ranges.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/symmetric_tree.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/two_sum.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/two_sum_sorted_input.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/valid_anagram.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/word_break.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_questions/all_subsets.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_questions/all_subsets_no_dup.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_questions/best_time_buy_sell_stock_iii.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_questions/buy_sell_stocks_i.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_questions/largest_number.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_questions/longest_increasing_subseq.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_questions/max_sum_path_bin_tree.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_questions/median_array.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_questions/min_stack.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_questions/missing_copy_array.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_questions/palindrome_partioning.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_questions/power_two_integers.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_questions/print_spiral_matrix.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_questions/sq_root_func.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_questions/substring_of_string.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_questions/target_sum_combinations.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_questions/valid_ip.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interview_bit/climbing_stairs.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interview_bit/lru_cache.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interviewbit_int.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/container_most_water.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/reverse_words_string.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/interview_prep.iml" afterPath="$PROJECT_DIR$/.idea/interview_prep.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="interview_prep.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -65,43 +40,60 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/interview_prep$longest_sub_str.coverage" NAME="longest_sub_str Coverage Results" MODIFIED="1479700063422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
-    <SUITE FILE_PATH="coverage/interview_prep$best_time_buy_sell_stock.coverage" NAME="best_time_buy_sell_stock Coverage Results" MODIFIED="1490376899547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
+    <SUITE FILE_PATH="coverage/interview_prep$best_time_buy_sell_stock.coverage" NAME="best_time_buy_sell_stock Coverage Results" MODIFIED="1491829071934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
     <SUITE FILE_PATH="coverage/interview_prep$longest_common_prefix.coverage" NAME="longest_common_prefix Coverage Results" MODIFIED="1490231686647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
+    <SUITE FILE_PATH="coverage/interview_prep$sq_root_func.coverage" NAME="sq_root_func Coverage Results" MODIFIED="1492118171995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon_questions" />
+    <SUITE FILE_PATH="coverage/interview_prep$valid_ip.coverage" NAME="valid_ip Coverage Results" MODIFIED="1492702665805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon_questions" />
     <SUITE FILE_PATH="coverage/interview_prep$move_zeroes.coverage" NAME="move_zeroes Coverage Results" MODIFIED="1482451045524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
-    <SUITE FILE_PATH="coverage/interview_prep$max_product_subarray.coverage" NAME="max_product_subarray Coverage Results" MODIFIED="1490383173430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
+    <SUITE FILE_PATH="coverage/interview_prep$largest_number.coverage" NAME="largest_number Coverage Results" MODIFIED="1492189484627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon_questions" />
+    <SUITE FILE_PATH="coverage/interview_prep$missing_copy_array.coverage" NAME="missing_copy_array Coverage Results" MODIFIED="1492111992165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon_questions" />
     <SUITE FILE_PATH="coverage/interview_prep$permutations_string.coverage" NAME="permutations_string Coverage Results" MODIFIED="1477843979683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cracking_coding_interview/ch8" />
-    <SUITE FILE_PATH="coverage/interview_prep$container_most_water.coverage" NAME="container_most_water Coverage Results" MODIFIED="1480017062930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
     <SUITE FILE_PATH="coverage/interview_prep$nth_fib.coverage" NAME="nth_fib Coverage Results" MODIFIED="1477508767784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cracking_coding_interview/ch8" />
+    <SUITE FILE_PATH="coverage/interview_prep$print_spiral_matrix.coverage" NAME="print_spiral_matrix Coverage Results" MODIFIED="1492102099634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon_questions" />
+    <SUITE FILE_PATH="coverage/interview_prep$contains_duplicate2.coverage" NAME="contains_duplicate2 Coverage Results" MODIFIED="1490385295180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
+    <SUITE FILE_PATH="coverage/interview_prep$power_two_integers.coverage" NAME="power_two_integers Coverage Results" MODIFIED="1492273945733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon_questions" />
+    <SUITE FILE_PATH="coverage/interview_prep$jump_game.coverage" NAME="jump_game Coverage Results" MODIFIED="1490373603884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
+    <SUITE FILE_PATH="coverage/interview_prep$guess_num_2.coverage" NAME="guess_num_2 Coverage Results" MODIFIED="1482089114071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
+    <SUITE FILE_PATH="coverage/interview_prep$climbing_stairs.coverage" NAME="climbing_stairs Coverage Results" MODIFIED="1492895632325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interview_bit" />
+    <SUITE FILE_PATH="coverage/interview_prep$lru_cache.coverage" NAME="lru_cache Coverage Results" MODIFIED="1492895638438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interview_bit" />
+    <SUITE FILE_PATH="coverage/interview_prep$longest_palindromic_sub.coverage" NAME="longest_palindromic_sub Coverage Results" MODIFIED="1490311078668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
+    <SUITE FILE_PATH="coverage/interview_prep$substring_of_string.coverage" NAME="substring_of_string Coverage Results" MODIFIED="1492278977510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon_questions" />
+    <SUITE FILE_PATH="coverage/interview_prep$target_sum_combinations.coverage" NAME="target_sum_combinations Coverage Results" MODIFIED="1492560588175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon_questions" />
+    <SUITE FILE_PATH="coverage/interview_prep$word_break.coverage" NAME="word_break Coverage Results" MODIFIED="1483651123116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
+    <SUITE FILE_PATH="coverage/interview_prep$longest_non_rep_sub_str.coverage" NAME="longest_non_rep_sub_str Coverage Results" MODIFIED="1490226055288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
+    <SUITE FILE_PATH="coverage/interview_prep$best_time_buy_sell_stock_iii.coverage" NAME="best_time_buy_sell_stock_iii Coverage Results" MODIFIED="1492895665639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon_questions" />
+    <SUITE FILE_PATH="coverage/interview_prep$longest_increasing_subseq.coverage" NAME="longest_increasing_subseq Coverage Results" MODIFIED="1491759586145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon_questions" />
+    <SUITE FILE_PATH="coverage/interview_prep$nim_game.coverage" NAME="nim_game Coverage Results" MODIFIED="1482430056231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
+    <SUITE FILE_PATH="coverage/interview_prep$n_pair_parenth.coverage" NAME="n_pair_parenth Coverage Results" MODIFIED="1477851144562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cracking_coding_interview/ch8" />
+    <SUITE FILE_PATH="coverage/interview_prep$remove_element.coverage" NAME="remove_element Coverage Results" MODIFIED="1490312405819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
+    <SUITE FILE_PATH="coverage/interview_prep$longest_sub_str.coverage" NAME="longest_sub_str Coverage Results" MODIFIED="1479700063422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
+    <SUITE FILE_PATH="coverage/interview_prep$max_product_subarray.coverage" NAME="max_product_subarray Coverage Results" MODIFIED="1490383173430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
+    <SUITE FILE_PATH="coverage/interview_prep$container_most_water.coverage" NAME="container_most_water Coverage Results" MODIFIED="1480017062930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
+    <SUITE FILE_PATH="coverage/interview_prep$all_subsets_no_dup.coverage" NAME="all_subsets_no_dup Coverage Results" MODIFIED="1492643226268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon_questions" />
+    <SUITE FILE_PATH="coverage/interview_prep$palindrome_partioning.coverage" NAME="palindrome_partioning Coverage Results" MODIFIED="1492027422080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon_questions" />
     <SUITE FILE_PATH="coverage/interview_prep$minimum_path_sum.coverage" NAME="minimum_path_sum Coverage Results" MODIFIED="1490374410394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
     <SUITE FILE_PATH="coverage/interview_prep$sub_bits.coverage" NAME="sub_bits Coverage Results" MODIFIED="1478795811921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cracking_coding_interview/ch5" />
-    <SUITE FILE_PATH="coverage/interview_prep$contains_duplicate2.coverage" NAME="contains_duplicate2 Coverage Results" MODIFIED="1490385295180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
     <SUITE FILE_PATH="coverage/interview_prep$graph.coverage" NAME="graph Coverage Results" MODIFIED="1482254262896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../data_struct_algo/python" />
-    <SUITE FILE_PATH="coverage/interview_prep$jump_game.coverage" NAME="jump_game Coverage Results" MODIFIED="1490373603884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
     <SUITE FILE_PATH="coverage/interview_prep$robot_walk.coverage" NAME="robot_walk Coverage Results" MODIFIED="1477512188395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cracking_coding_interview/ch8" />
-    <SUITE FILE_PATH="coverage/interview_prep$guess_num_2.coverage" NAME="guess_num_2 Coverage Results" MODIFIED="1482089114071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
     <SUITE FILE_PATH="coverage/interview_prep$rep_n_cents.coverage" NAME="rep_n_cents Coverage Results" MODIFIED="1478202865384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cracking_coding_interview/ch8" />
     <SUITE FILE_PATH="coverage/interview_prep$two_sum.coverage" NAME="two_sum Coverage Results" MODIFIED="1490216691758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
     <SUITE FILE_PATH="coverage/interview_prep$rotated_search.coverage" NAME="rotated_search Coverage Results" MODIFIED="1478791462159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cracking_coding_interview/ch9" />
-    <SUITE FILE_PATH="coverage/interview_prep$longest_palindromic_sub.coverage" NAME="longest_palindromic_sub Coverage Results" MODIFIED="1490311078668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
     <SUITE FILE_PATH="coverage/interview_prep$sort_by_freq.coverage" NAME="sort_by_freq Coverage Results" MODIFIED="1490459835184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
     <SUITE FILE_PATH="coverage/interview_prep$remove_duplicates_sorted_array.coverage" NAME="remove_duplicates_sorted_array Coverage Results" MODIFIED="1490312028508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
-    <SUITE FILE_PATH="coverage/interview_prep$word_break.coverage" NAME="word_break Coverage Results" MODIFIED="1483651123116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
-    <SUITE FILE_PATH="coverage/interview_prep$longest_non_rep_sub_str.coverage" NAME="longest_non_rep_sub_str Coverage Results" MODIFIED="1490226055288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
+    <SUITE FILE_PATH="coverage/interview_prep$reverse_words_string.coverage" NAME="reverse_words_string Coverage Results" MODIFIED="1491688070937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
     <SUITE FILE_PATH="coverage/interview_prep$house_robber.coverage" NAME="house_robber Coverage Results" MODIFIED="1481078130981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
     <SUITE FILE_PATH="coverage/interview_prep$adding_two_ll.coverage" NAME="adding_two_ll Coverage Results" MODIFIED="1490218048972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
     <SUITE FILE_PATH="coverage/interview_prep$two_sum_sorted_input.coverage" NAME="two_sum_sorted_input Coverage Results" MODIFIED="1490383849209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
+    <SUITE FILE_PATH="coverage/interview_prep$median_array.coverage" NAME="median_array Coverage Results" MODIFIED="1492895657071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon_questions" />
     <SUITE FILE_PATH="coverage/interview_prep$coin_change.coverage" NAME="coin_change Coverage Results" MODIFIED="1490458989317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
     <SUITE FILE_PATH="coverage/interview_prep$disappear_num.coverage" NAME="disappear_num Coverage Results" MODIFIED="1480788843107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
     <SUITE FILE_PATH="coverage/interview_prep$best_time_buy_sell_mult.coverage" NAME="best_time_buy_sell_mult Coverage Results" MODIFIED="1490381773804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
     <SUITE FILE_PATH="coverage/interview_prep$max_subarray.coverage" NAME="max_subarray Coverage Results" MODIFIED="1490630131129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../data_struct_algo/python" />
-    <SUITE FILE_PATH="coverage/interview_prep$nim_game.coverage" NAME="nim_game Coverage Results" MODIFIED="1482430056231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
-    <SUITE FILE_PATH="coverage/interview_prep$n_pair_parenth.coverage" NAME="n_pair_parenth Coverage Results" MODIFIED="1477851144562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cracking_coding_interview/ch8" />
     <SUITE FILE_PATH="coverage/interview_prep$paint_fill.coverage" NAME="paint_fill Coverage Results" MODIFIED="1477862433978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cracking_coding_interview/ch8" />
     <SUITE FILE_PATH="coverage/interview_prep$eight_queens_chess.coverage" NAME="eight_queens_chess Coverage Results" MODIFIED="1478477066361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cracking_coding_interview/ch8" />
     <SUITE FILE_PATH="coverage/interview_prep$maximal_square.coverage" NAME="maximal_square Coverage Results" MODIFIED="1480461884197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
     <SUITE FILE_PATH="coverage/interview_prep$summary_ranges.coverage" NAME="summary_ranges Coverage Results" MODIFIED="1490392330600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
-    <SUITE FILE_PATH="coverage/interview_prep$remove_element.coverage" NAME="remove_element Coverage Results" MODIFIED="1490312405819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
+    <SUITE FILE_PATH="coverage/interview_prep$all_subsets.coverage" NAME="all_subsets Coverage Results" MODIFIED="1492895600381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon_questions" />
     <SUITE FILE_PATH="coverage/interview_prep$subsets_of_set.coverage" NAME="subsets_of_set Coverage Results" MODIFIED="1477768952783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cracking_coding_interview/ch8" />
   </component>
   <component name="CreatePatchCommitExecutor">
@@ -183,96 +175,12 @@
     <favorites_list name="interview_prep" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="nim_game.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/nim_game.py">
+    <leaf>
+      <file leaf-file-name="buy_sell_stocks_i.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/amazon_questions/buy_sell_stocks_i.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="30" column="10" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="contains_duplicate.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/contains_duplicate.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="disappear_num.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/disappear_num.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sort_by_freq.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/sort_by_freq.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sudoku_verify.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/leetcode/sudoku_verify.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.30952382">
-              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#16#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="linked_list.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../data_struct_algo/python/linked_list.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="max_subarray.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../data_struct_algo/python/max_subarray.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="36" column="12" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="12" />
-              <folding>
-                <element signature="e#0#31#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="adding_two_ll_2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/adding_two_ll_2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="39" column="48" selection-start-line="39" selection-start-column="48" selection-end-line="39" selection-end-column="48" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="coin_change.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/coin_change.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="89" column="10" selection-start-line="89" selection-start-column="10" selection-end-line="89" selection-end-column="10" />
+            <state vertical-scroll-proportion="0.58542717">
+              <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -293,30 +201,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/cracking_coding_interview/ch5/next_largest_smallest.py" />
-        <option value="$PROJECT_DIR$/feedback.tex" />
-        <option value="dbtable:/cb822101/36e51880-41ec-44f9-8a0e-bd3d31bc46bf/exercises.cd.bookings" />
-        <option value="$PROJECT_DIR$/../../math/priv-study-files/machine_learning/machine_learning.tex" />
-        <option value="$PROJECT_DIR$/cracking_coding_interview/additional/tic_tac_toe.py" />
-        <option value="dbtable:/cb822101/36e51880-41ec-44f9-8a0e-bd3d31bc46bf/exercises.cd.members" />
-        <option value="$PROJECT_DIR$/leetcode/guess_num.py" />
-        <option value="$PROJECT_DIR$/leetcode/sort_by_freq.py" />
-        <option value="dbtable:/cb822101/36e51880-41ec-44f9-8a0e-bd3d31bc46bf/exercises.cd.facilities" />
-        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/36e51880-41ec-44f9-8a0e-bd3d31bc46bf/console.sql" />
-        <option value="$PROJECT_DIR$/leetcode/longest_sub_str.py" />
-        <option value="$PROJECT_DIR$/leetcode/container_most_water.py" />
-        <option value="$PROJECT_DIR$/leetcode/maximal_square.py" />
-        <option value="$PROJECT_DIR$/leetcode/remove_duplicates_sorted_array.py" />
-        <option value="$PROJECT_DIR$/hackerrank/check_binary_search_tree.py" />
-        <option value="$PROJECT_DIR$/leetcode/intersection_linked_lists.py" />
-        <option value="$PROJECT_DIR$/leetcode/house_robber.py" />
-        <option value="$PROJECT_DIR$/leetcode/guess_num_2.py" />
-        <option value="$PROJECT_DIR$/leetcode/move_zeroes.py" />
-        <option value="$PROJECT_DIR$/leetcode/word_break.py" />
-        <option value="$PROJECT_DIR$/leetcode/two_sum.py" />
-        <option value="$PROJECT_DIR$/leetcode/adding_two_ll.py" />
-        <option value="$PROJECT_DIR$/leetcode/longest_non_rep_sub_str.py" />
-        <option value="$PROJECT_DIR$/leetcode/longest_common_prefix.py" />
         <option value="$PROJECT_DIR$/leetcode/remove_nth_node_from_end.py" />
         <option value="$PROJECT_DIR$/leetcode/reverse_linked_list.py" />
         <option value="$PROJECT_DIR$/leetcode/longest_palindromic_sub.py" />
@@ -340,10 +224,34 @@
         <option value="$PROJECT_DIR$/leetcode/nim_game.py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_1" />
         <option value="$PROJECT_DIR$/leetcode/adding_two_ll_2.py" />
-        <option value="$PROJECT_DIR$/leetcode/coin_change.py" />
         <option value="$PROJECT_DIR$/leetcode/disappear_num.py" />
         <option value="$PROJECT_DIR$/leetcode/sudoku_verify.py" />
         <option value="$PROJECT_DIR$/../data_struct_algo/python/graph.py" />
+        <option value="$PROJECT_DIR$/leetcode/coin_change.py" />
+        <option value="$PROJECT_DIR$/leetcode/container_most_water.py" />
+        <option value="$PROJECT_DIR$/leetcode/reverse_words_string.py" />
+        <option value="$PROJECT_DIR$/interview_bit/climbing_stairs.py" />
+        <option value="$PROJECT_DIR$/amazon_questions/min_gas_station.py" />
+        <option value="$PROJECT_DIR$/amazon_questions/longest_increasing_subseq.py" />
+        <option value="$PROJECT_DIR$/amazon_questions/best_time_buy_sell_stock_iii.py" />
+        <option value="$PROJECT_DIR$/amazon_questions/buy_sell_stocks_i.py" />
+        <option value="$PROJECT_DIR$/amazon_questions/max_sum_path_bin_tree.py" />
+        <option value="$PROJECT_DIR$/interviewbit_int.py" />
+        <option value="$PROJECT_DIR$/interview_bit/lru_cache.py" />
+        <option value="$PROJECT_DIR$/amazon_questions/palindrome_partioning.py" />
+        <option value="$PROJECT_DIR$/amazon_questions/print_spiral_matrix.py" />
+        <option value="$PROJECT_DIR$/amazon_questions/missing_copy_array.py" />
+        <option value="$PROJECT_DIR$/amazon_questions/sq_root_func.py" />
+        <option value="$PROJECT_DIR$/amazon_questions/largest_number.py" />
+        <option value="$PROJECT_DIR$/amazon_questions/power_two_integers.py" />
+        <option value="$PROJECT_DIR$/amazon_questions/substring_of_string.py" />
+        <option value="$PROJECT_DIR$/amazon_questions/target_sum_combinations.py" />
+        <option value="$PROJECT_DIR$/amazon_questions/all_subsets.py" />
+        <option value="$PROJECT_DIR$/amazon_questions/all_subsets_no_dup.py" />
+        <option value="$PROJECT_DIR$/amazon_questions/min_stack.py" />
+        <option value="$PROJECT_DIR$/amazon_questions/valid_ip.py" />
+        <option value="$PROJECT_DIR$/test.hs" />
+        <option value="$PROJECT_DIR$/amazon_questions/median_array.py" />
       </list>
     </option>
   </component>
@@ -356,6 +264,25 @@
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="727" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Buildout</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -382,6 +309,49 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="interview_prep">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="interview_prep">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="interview_prep">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="interview_prep">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="amazon_questions">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -400,15 +370,37 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="interview_prep" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="interview_prep" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="interview_prep" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="interview_prep" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="amazon_questions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Python" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../larkin" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../comcast" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
@@ -419,95 +411,103 @@
       <recent name="$PROJECT_DIR$/cracking_coding_interview" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.max_subarray">
-    <configuration default="false" name="contains_duplicate2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.best_time_buy_sell_stock_iii">
+    <configuration default="false" name="all_subsets" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leetcode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/amazon_questions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="interview_prep" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode/contains_duplicate2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/amazon_questions/all_subsets.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="summary_ranges" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="climbing_stairs" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leetcode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/interview_bit" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="interview_prep" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode/summary_ranges.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/interview_bit/climbing_stairs.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="coin_change" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="lru_cache" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leetcode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/interview_bit" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="interview_prep" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode/coin_change.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/interview_bit/lru_cache.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="sort_by_freq" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="median_array" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leetcode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/amazon_questions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="interview_prep" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode/sort_by_freq.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/amazon_questions/median_array.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="max_subarray" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="best_time_buy_sell_stock_iii" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../data_struct_algo/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/amazon_questions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python" />
+      <module name="interview_prep" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../data_struct_algo/python/max_subarray.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/amazon_questions/best_time_buy_sell_stock_iii.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="CabalRunConfiguration" factoryName="Haskell">
+      <module name="" />
+      <setting name="executableName" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="" />
+      <environmetVariables />
       <method />
     </configuration>
     <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
@@ -704,19 +704,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.contains_duplicate2" />
-      <item index="1" class="java.lang.String" itemvalue="Python.summary_ranges" />
-      <item index="2" class="java.lang.String" itemvalue="Python.coin_change" />
-      <item index="3" class="java.lang.String" itemvalue="Python.sort_by_freq" />
-      <item index="4" class="java.lang.String" itemvalue="Python.max_subarray" />
+      <item index="0" class="java.lang.String" itemvalue="Python.all_subsets" />
+      <item index="1" class="java.lang.String" itemvalue="Python.climbing_stairs" />
+      <item index="2" class="java.lang.String" itemvalue="Python.lru_cache" />
+      <item index="3" class="java.lang.String" itemvalue="Python.median_array" />
+      <item index="4" class="java.lang.String" itemvalue="Python.best_time_buy_sell_stock_iii" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.max_subarray" />
-        <item index="1" class="java.lang.String" itemvalue="Python.sort_by_freq" />
-        <item index="2" class="java.lang.String" itemvalue="Python.coin_change" />
-        <item index="3" class="java.lang.String" itemvalue="Python.summary_ranges" />
-        <item index="4" class="java.lang.String" itemvalue="Python.contains_duplicate2" />
+        <item index="0" class="java.lang.String" itemvalue="Python.best_time_buy_sell_stock_iii" />
+        <item index="1" class="java.lang.String" itemvalue="Python.median_array" />
+        <item index="2" class="java.lang.String" itemvalue="Python.lru_cache" />
+        <item index="3" class="java.lang.String" itemvalue="Python.climbing_stairs" />
+        <item index="4" class="java.lang.String" itemvalue="Python.all_subsets" />
       </list>
     </recent_temporary>
   </component>
@@ -732,20 +732,23 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="727" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32913387" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5258359" sideWeight="0.50625" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296875" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32978722" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32755905" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="GhcMod" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28271407" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Cabal" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296875" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39969605" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39717427" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -821,6 +824,41 @@
           <line>11</line>
           <option name="timeStamp" value="167" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode/reverse_words_string.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="168" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/amazon_questions/longest_increasing_subseq.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="171" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/amazon_questions/best_time_buy_sell_stock_iii.py</url>
+          <line>62</line>
+          <option name="timeStamp" value="184" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/amazon_questions/palindrome_partioning.py</url>
+          <line>44</line>
+          <option name="timeStamp" value="195" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/amazon_questions/all_subsets.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="291" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/amazon_questions/all_subsets_no_dup.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="292" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/amazon_questions/valid_ip.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="300" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
@@ -832,198 +870,15 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="168" />
+      <option name="time" value="301" />
     </breakpoint-manager>
-    <watches-manager />
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="i" language="Python" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="dbDummy://dbtable:/cb822101/36e51880-41ec-44f9-8a0e-bd3d31bc46bf/exercises.cd.members">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/cb822101/36e51880-41ec-44f9-8a0e-bd3d31bc46bf/exercises.cd.bookings">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.16949153">
-          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
-        </state>
-      </provider>
-      <provider editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/cb822101/36e51880-41ec-44f9-8a0e-bd3d31bc46bf/exercises.cd.facilities">
-      <provider editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/guess_num.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4225352">
-          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/36e51880-41ec-44f9-8a0e-bd3d31bc46bf/console.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.41338584">
-          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/maximal_square.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.72639227">
-          <caret line="61" column="18" selection-start-line="61" selection-start-column="18" selection-end-line="61" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prog_int_exposed/flatten.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cracking_coding_interview/ch5/next_largest_smallest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cracking_coding_interview/ch5/sub_bits.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cracking_coding_interview/ch8/nth_fib.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/house_robber.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/move_zeroes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6174334">
-          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hackerrank/check_binary_search_tree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5084746">
-          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prog_int_exposed/delete_char_from_string.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/word_break.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/two_sum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/longest_non_rep_sub_str.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/longest_common_prefix.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/remove_nth_node_from_end.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/reverse_linked_list.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/longest_palindromic_sub.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="39" column="28" selection-start-line="39" selection-start-column="28" selection-end-line="39" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/remove_duplicates_sorted_array.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/max_subarray.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="32" column="32" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/jump_game.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1056,14 +911,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/best_time_buy_sell_stock.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1121,7 +968,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1129,7 +975,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="30" column="23" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1137,7 +982,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1145,7 +989,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1161,7 +1004,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1173,31 +1015,177 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/sort_by_freq.py">
+    <entry file="file://$PROJECT_DIR$/leetcode/container_most_water.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.7627119">
+          <caret line="27" column="18" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/coin_change.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.94430995">
+          <caret line="48" column="20" selection-start-line="48" selection-start-column="20" selection-end-line="48" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/adding_two_ll_2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.27360776">
           <caret line="39" column="48" selection-start-line="39" selection-start-column="48" selection-end-line="39" selection-end-column="48" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/coin_change.py">
+    <entry file="file://$PROJECT_DIR$/../data_struct_algo/python/max_subarray.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="89" column="10" selection-start-line="89" selection-start-column="10" selection-end-line="89" selection-end-column="10" />
-          <folding />
+        <state vertical-scroll-proportion="0.036319613">
+          <caret line="36" column="12" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../data_struct_algo/python/linked_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.32687652">
+          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/sudoku_verify.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.30992737">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/sort_by_freq.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.43583536">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/reverse_words_string.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12261581">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amazon_questions/longest_increasing_subseq.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5722071">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amazon_questions/palindrome_partioning.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20980926">
+          <caret line="31" column="40" selection-start-line="31" selection-start-column="40" selection-end-line="31" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interviewbit_int.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.71389645">
+          <caret line="23" column="68" selection-start-line="23" selection-start-column="68" selection-end-line="23" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amazon_questions/max_sum_path_bin_tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.040871933">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/best_time_buy_sell_stock.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.040871933">
+          <caret line="33" column="22" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amazon_questions/missing_copy_array.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.47215497">
+          <caret line="39" column="18" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amazon_questions/print_spiral_matrix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.27360776">
+          <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amazon_questions/sq_root_func.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.21428572">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amazon_questions/largest_number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.39698493">
+          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amazon_questions/power_two_integers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.56532663">
+          <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amazon_questions/substring_of_string.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.45812806">
+          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amazon_questions/min_stack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.073891625">
+          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amazon_questions/all_subsets_no_dup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.66502464">
+          <caret line="39" column="19" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
+          <folding>
+            <element signature="e#376#401#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../data_struct_algo/python/graph.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.024630541">
+          <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amazon_questions/target_sum_combinations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.408867">
+          <caret line="70" column="36" selection-start-line="70" selection-start-column="36" selection-end-line="70" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amazon_questions/valid_ip.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1205,35 +1193,77 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../data_struct_algo/python/max_subarray.py">
+    <entry file="file://$PROJECT_DIR$/amazon_questions/all_subsets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.28140703">
+          <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interview_bit/climbing_stairs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.36180905">
+          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interview_bit/lru_cache.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.60301507">
+          <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hackerrank/check_binary_search_tree.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="36" column="12" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="12" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../data_struct_algo/python/graph.py">
+    <entry file="file://$PROJECT_DIR$/amazon_questions/median_array.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.52380955">
-          <caret line="61" column="13" selection-start-line="61" selection-start-column="13" selection-end-line="61" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.56532663">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/sudoku_verify.py">
+    <entry file="file://$PROJECT_DIR$/amazon_questions/best_time_buy_sell_stock_iii.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.30952382">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#16#0" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="1.6582915">
+          <caret line="44" column="28" selection-start-line="44" selection-start-column="28" selection-end-line="44" selection-end-column="28" />
+          <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/amazon_questions/buy_sell_stocks_i.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.58542717">
+          <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <last-edited>Python</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
